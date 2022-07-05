@@ -1,0 +1,6 @@
+common==0.1.2
+google_api_python_client==2.30.0
+helpers==0.2.0
+HTMLParser==0.0.2
+selenium==4.0.0
+utils==1.0.1
